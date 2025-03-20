@@ -1,2 +1,3 @@
 --platform=linux/arm64 xiaoyaliu/alist
 jellyfin/jellyfin:latest
+librespeed/speedtest:latest
